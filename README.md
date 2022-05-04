@@ -1,2 +1,3 @@
 # zh_wsjlfz  
-2. feladathoz létrehozott branch
+3. feladathoz létrehozott branch
+A file tartalmaz statisztikákat, és gráfot, az adatokkal kapcsolatban
