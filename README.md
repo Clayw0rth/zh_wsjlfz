@@ -1,4 +1,2 @@
-# zh_wsjlfz
-szoftverfejlesztés zh
-név: Király Mátyás
-neptun kód: Király Mátyás
+# zh_wsjlfz  
+2. feladathoz létrehozott branch (véletlen a 3. feladat megoldását ide is feltöltöttem)
